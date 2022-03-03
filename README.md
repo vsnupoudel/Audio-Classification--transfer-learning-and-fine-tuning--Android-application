@@ -6,3 +6,4 @@
 ## TODO
 - Expand the current application to split audio file into 5sec interval, convert them to Java consumable format, predict each of them
 - Then output the time of 'positively identified' sound activity
+- Alternatively, while the java issue gets resolved, working on getting resmapled data from a flask API, the application will call this flask api.
